@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Chadrick Ryan Ingal
 
-**Aspiring AI Builder** · he/him *(edit this)*
+**Aspiring AI Builder** 
 
 <a href="https://github.com/cokownut"><img src="https://img.shields.io/badge/GitHub-cokownut-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
