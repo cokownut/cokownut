@@ -54,7 +54,7 @@
 
 <img src="https://streak-stats.demolab.com?user=cokownut&theme=tokyonight&hide_border=true" alt="cokownut GitHub streak" width="96%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cokownut&theme=react-dark&hide_border=true&bg_color=0d1117" alt="cokownut contribution graph" width="96%">
+<img src="https://ghchart.rshah.org/58a6ff/cokownut" alt="cokownut contribution chart" width="96%">
 
 <!-- Backup if the cards are down:
 <img src="https://ghchart.rshah.org/58a6ff/cokownut" alt="Contribution chart">
